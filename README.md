@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Jakub Janků built the games app as a Freemium app. This SERVICE is provided by Jakub Janků at no cost and is intended for use as is.
+Jakub Janků built the games and apps as a Freemium app. This SERVICE is provided by Jakub Janků at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
